@@ -1,13 +1,6 @@
 {
  "nextNo": 3,
  "employees": {
-  "12345": {
-   "id": "12345",
-   "name": "Test",
-   "nationality": "Test",
-   "job": "Test",
-   "dept": "Al Rimaya"
-  },
   "30558": {
    "id": "30558",
    "name": "Test",
