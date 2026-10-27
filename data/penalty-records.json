@@ -9,17 +9,5 @@
    "dept": "Al Rimaya"
   }
  },
- "records": [
-  {
-   "no": 1,
-   "empId": "12345",
-   "sec": 0,
-   "clause": 1,
-   "occ": 1,
-   "code": "W",
-   "date": "2026-10-27",
-   "notes": "late arrival",
-   "ts": 1793128876769
-  }
- ]
+ "records": []
 }
