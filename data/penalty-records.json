@@ -1,5 +1,25 @@
 {
- "nextNo": 3,
- "employees": {},
- "records": []
+ "nextNo": 4,
+ "employees": {
+  "30558": {
+   "id": "30558",
+   "name": "test",
+   "nationality": "test1",
+   "job": "test1",
+   "dept": "Al Rimaya"
+  }
+ },
+ "records": [
+  {
+   "no": 3,
+   "empId": "30558",
+   "sec": 0,
+   "clause": 4,
+   "occ": 1,
+   "code": "25",
+   "date": "2026-10-27",
+   "notes": "",
+   "ts": 1793130997738
+  }
+ ]
 }
