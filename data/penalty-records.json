@@ -1,5 +1,5 @@
 {
- "nextNo": 2,
+ "nextNo": 3,
  "employees": {
   "12345": {
    "id": "12345",
@@ -7,7 +7,26 @@
    "nationality": "Test",
    "job": "Test",
    "dept": "Al Rimaya"
+  },
+  "30558": {
+   "id": "30558",
+   "name": "Test",
+   "nationality": "Test",
+   "job": "Test",
+   "dept": "Al Rimaya"
   }
  },
- "records": []
+ "records": [
+  {
+   "no": 2,
+   "empId": "30558",
+   "sec": 2,
+   "clause": 16,
+   "occ": 1,
+   "code": "1d",
+   "date": "2026-10-27",
+   "notes": "",
+   "ts": 1793130092850
+  }
+ ]
 }
