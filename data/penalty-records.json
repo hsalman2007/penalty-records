@@ -1,13 +1,5 @@
 {
  "nextNo": 3,
- "employees": {
-  "30558": {
-   "id": "30558",
-   "name": "Test",
-   "nationality": "Test",
-   "job": "Test",
-   "dept": "Al Rimaya"
-  }
- },
+ "employees": {},
  "records": []
 }
